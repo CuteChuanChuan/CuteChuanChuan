@@ -1,6 +1,7 @@
 ### Hey 👋, I'm Raymond
 
 🌱 **Current Pursuit:** Exploring Data Engineering.
+
 📫 **Contact me via:** [kirk336neo@gmail.com](mailto:kirk336neo@gmail.com).
 
 🔍 **Languages & Tools:**
@@ -12,6 +13,7 @@
 - ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutechuanchuan&layout=compact&hide=jupyter%20notebook)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cutechuanchuan&show_icons=true&theme=calm_pink&count_private=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
