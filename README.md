@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hey 👋, I'm Raymond
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cutechuanchuan&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cutechuanchuan&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cutechuanchuan&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cutechuanchuan&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cutechuanchuan&theme=aura_dark&utcOffset=8)
 
 <!--
-**CuteChuanChuan/CuteChuanChuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**appleboy/appleboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Check my 🖋 [Chinese blog](http://blog.wu-boy.com/) or 🌱 [Udemy Online Course](https://www.udemy.com/user/bo-yi-wu-2/)
+- 🔭 I’m currently working on Mediatek as Software Enginner
 -->
