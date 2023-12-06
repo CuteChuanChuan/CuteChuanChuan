@@ -45,8 +45,6 @@
 
 **Leetcode Stats**
 
-I have just gotten started with LeetCode as a hobby. It is a really fun and interesting challenge that can help keep skills sharp!!!
-
 [![Leetcode Stats](https://leetcode.card.workers.dev/?username=CuteChuanChuan&theme=auto)](https://leetcode.com/CuteChuanChuan/)
 
 **Connect with me**
