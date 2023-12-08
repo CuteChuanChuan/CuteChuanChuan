@@ -51,7 +51,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/yuchuanhung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuchuanhung" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harrystaley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harrystaley" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/CuteChuanChuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harrystaley" height="30" width="40" /></a>
 </p>
 
 <!--
