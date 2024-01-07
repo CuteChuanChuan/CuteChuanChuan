@@ -1,8 +1,8 @@
 ### Hey 👋, I'm Raymond
 
-🌱 **Current work on**: Exploring Data Engineering.
+🖥️ **Check my [Blog](https://cutechuanchuan.github.io/raymond-blog/)** (publishing articles about data engineering, Python, and Cloud Service)
 
-🖥️ **Check my [Blog](https://cutechuanchuan.github.io/raymond-blog/)**
+🌱 **Current work on**: Exploring Data Engineering.
 
 📫 **Contact me via**: [kirk336neo@gmail.com](mailto:kirk336neo@gmail.com).
 
@@ -40,7 +40,7 @@
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheusio" width="40" height="40"/> </a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutechuanchuan&layout=compact&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutechuanchuan&layout=compact&hide=html,css,jupyter%20notebook)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=cutechuanchuan&show_icons=true&theme=calm_pink&count_private=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
