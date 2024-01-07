@@ -1,12 +1,10 @@
 ### Hey 👋, I'm Raymond
 
-
 🌱 **Current work on**: Exploring Data Engineering.
-
-📫 **Contact me via**: [kirk336neo@gmail.com](mailto:kirk336neo@gmail.com).
 
 🖥️ **Check my [Blog](https://cutechuanchuan.github.io/raymond-blog/)**
 
+📫 **Contact me via**: [kirk336neo@gmail.com](mailto:kirk336neo@gmail.com).
 
 🔍 **Languages & Tools**:
 <!--
@@ -54,11 +52,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/yuchuanhung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuchuanhung" height="30" width="40" /></a>
-<<<<<<< HEAD
-<a href="https://www.leetcode.com/harrystaley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harrystaley" height="30" width="40" /></a>
-=======
-<a href="https://www.leetcode.com/CuteChuanChuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harrystaley" height="30" width="40" /></a>
->>>>>>> 45af70326a8bade5a7205a9d624f75a4d2c4e4e0
+<a href="https://www.leetcode.com/CuteChuanChuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yuchuanhung" height="30" width="40" /></a>
 </p>
 
 <!--
