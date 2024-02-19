@@ -38,6 +38,11 @@
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="apache_spark" width="40" height="40"/> </a>
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheusio" width="40" height="40"/> </a>
+<a href="https://www.dremio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dremio/dremio-icon.svg" alt="dremio" width="40" height="40"/> </a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg" alt="dremio" width="40" height="40"/> </a>
+<a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="dremio" width="40" height="40"/> </a>
+
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutechuanchuan&layout=compact&hide=html,css,jupyter%20notebook)
