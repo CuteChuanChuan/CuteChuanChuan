@@ -24,7 +24,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CuteChuanChuan&hide=stars,issues&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=ayu-mirage" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CuteChuanChuan&layout=compact&langs_count=8&card_width=320&theme=ayu-mirage" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CuteChuanChuan&layout=compact&langs_count=8&card_width=320&theme=ayu-mirage&hide=html,css,jupyter%20notebook" />
 </a>
 
 <!--
