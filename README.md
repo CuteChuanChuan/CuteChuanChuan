@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **distributed systems and event streaming**
 
-🔭 I’m currently working on Garmin as Data Enginner
+🔭 I’m currently working at Garmin as Data Enginner
 
 📫 **Contact me via**: [kirk336neo@gmail.com](mailto:kirk336neo@gmail.com).
 
